@@ -1,0 +1,37 @@
+Worker
+- worker should be able to browser all shifts
+- worker should be able to compete shift with other workers
+- worker should be able to browser his shifts
+- worker should be able to notify manager not to work
+- worker should be able to reject an assigned shift with reasons
+
+Manager
+- manager should be able to publish shifts
+- manager should be able to browser shifts
+- manager should be able to edit shifts
+- manager should be able to delete shifts
+- manager should be able to view published shifts
+   - then approve applied worker
+   - then reject applied worker
+   - then assign shift to a worker
+- can also be allocated a shift.
+- should know staff pool.
+
+
+
+level 2 manager
+- should be able to publish shifts
+- should be able to browser shifts
+- should be able to edit shifts
+- should be able to delete shifts
+   - if shifts have been assigned to manager/worker, they should also be notified
+- should be able to update all shifts
+  - if shifts have been assigned to manager/worker, they should be notified
+- should be able to add new shifts
+- should be able to assign shifts to manager and worker
+- should be able to see manager's shift or see shift's allocated manager
+- can also be allocated a shift, this shift can be permanent
+
+
+
+
