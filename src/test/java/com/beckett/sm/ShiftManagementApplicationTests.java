@@ -1,4 +1,4 @@
-package com.beckett.roast;
+package com.beckett.sm;
 
 import org.junit.Test;
 import org.junit.runner.RunWith;
@@ -7,7 +7,7 @@ import org.springframework.test.context.junit4.SpringRunner;
 
 @RunWith(SpringRunner.class)
 @SpringBootTest
-public class RoastApplicationTests {
+public class ShiftManagementApplicationTests {
 
 	@Test
 	public void contextLoads() {
