@@ -15,7 +15,7 @@ Manager
    - then reject applied worker
    - then assign shift to a worker
 - can also be allocated a shift.
-- should know staff pool.
+
 
 
 
@@ -33,5 +33,7 @@ level 2 manager
 - can also be allocated a shift, this shift can be permanent
 
 
+Shift
+- should know staff pool
 
 
